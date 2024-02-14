@@ -1,0 +1,11 @@
+// export { default as Home } from '../components/home/Home';
+// export { default as About } from '../components/noshow/About';
+// export { default as AddCompany } from '../components/company/AddCompany';
+// export { default as DocumentManagement } from '../components/documentManagement/DocumentManagement';
+// export { default as Marketing } from './Marketing';
+// export { default as Accounting } from '../components/account/Accounting';
+// export { default as Government } from '../components/government/Government';
+// export { default as Analysis } from '../components/analysis/AnalysisComponet';
+// export { default as Auth } from '../components/login/Auth';
+// export { default as NotFound } from '../components/noshow/NotFound';
+export { default as Completereport } from './Completereport';
